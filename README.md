@@ -23,7 +23,7 @@ This is a data analysis project that aims to provide insights into the sales per
 
 
 ### Data Sources
-The primary dataset used for this analysis is the 'Dominos Sales Data' excel data , containg detailed information about the sales made by the store in 2023.
+The primary dataset used for this analysis is the 'Dominos Sales Data' excel data , containing detailed information about the sales made by the store in 2023.
 
 ### Tools
 1. **Microsoft SQL Server Management Studio** - For Data querying
