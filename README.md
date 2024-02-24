@@ -13,7 +13,7 @@
 - [Insights and Recommendations](#insights-and-recommendations)
 
 ### Project Overview
-This is a data analysis project that aims to provide insights into the sales performance of a Dominos Pizza Store. By analysing various aspects of the sales data , we seek to identify trends, gain a deeper understanding of the data and make data-driven recommendations to enhance the store's performance in terms of growth, efficiency and customer satisfaction .
+This is a data analysis project that aims to provide insights into the sales performance of the Dominos Pizza Store. By analysing various aspects of the sales data , we seek to identify trends, gain a deeper understanding of the data and make data-driven recommendations to enhance the store's performance in terms of growth, efficiency and customer satisfaction .
 
 **Final Report**
 
